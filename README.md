@@ -1,3 +1,3 @@
 # EasyCommuteAssignment
 
-# pathSum java is same program but with custom input
+# pathSum java file is same program as root_leaf_sum python file but with custom input
